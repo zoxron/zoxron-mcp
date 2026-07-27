@@ -3,12 +3,22 @@
   "name": "com.zoxron/mcp",
   "title": "Zoxron MCP",
   "description": "Your AI agent deploys, migrates & upgrades self-hosted Odoo ERP on a server you own.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://zoxron.com/connect",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://zoxron.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://zoxron.com/static/img/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ],
+      "theme": "dark"
     }
   ]
 }
