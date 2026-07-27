@@ -1,0 +1,5 @@
+# nothing secret lives here, but keep local noise out
+*.pem
+*.hex
+.DS_Store
+node_modules/

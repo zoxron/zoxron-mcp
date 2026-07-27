@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zoxron": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://zoxron.com/mcp"]
+    }
+  }
+}
