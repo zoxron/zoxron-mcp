@@ -92,6 +92,7 @@ The account is free and takes an email. Signing in gives you the tools **and** t
 - staging: a safe copy of production to test against
 - migrating an existing Odoo to a new server, including the domain cutover
 - upgrading Odoo across major versions, and Community to Enterprise
+- Odoo 20: what works today (install, configure, Docker, moving your data from 19), and what does not yet (upgrading a 19 database in place)
 - monitoring and alerts, DNS and TLS, and what day-2 looks like after go-live
 - where your passwords live, how SSH keys are handled, and the safety model
 - troubleshooting and FAQ
@@ -110,6 +111,8 @@ Once connected, just talk to your agent:
 - *"Install Odoo 19 Enterprise (I have the .deb) with CRM, Sales and Accounting."*
 - *"Migrate this running Odoo to a new, bigger server and cut the domain over."*
 - *"Upgrade my Odoo to 19 and carry my custom and OCA modules across."*
+- *"Install Odoo 20 Community on this Ubuntu 24.04 server."*
+- *"Move my Odoo 19 data into a new Odoo 20 database and compare the two before we switch."*
 - *"I need approvals on purchase orders. Is there an OCA module for that?"*
 - *"Stand up a staging copy of production so I can test a change safely."*
 - *"Put Odoo 16 and Odoo 19 on the same box, I need both during the transition."*
